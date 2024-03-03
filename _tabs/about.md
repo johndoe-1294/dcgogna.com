@@ -8,5 +8,7 @@ Hello, I am the owner of the dcgogna.lol site, This is a very small site, meant 
 
 In addition I may be also be able to refer you to someone else I know, who would be able to help out further more better than me.
 
+Also on side note, you wont generally find much about me out in open internet. I like to keep my things private to myself, that being said I am not at all closed to sharing my project with right opportunties. 
+
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
