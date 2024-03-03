@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Owner
   email: help@dcgogna.lol # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -71,7 +71,7 @@ theme_mode: # [light|dark]
 #
 # e.g. 'https://cdn.com'
 img_cdn:
-
+  https://cdn.expeditions.com/globalassets/expedition-stories/what-to-expect-aurora-borealis/aurora-borealis-main-nolan.jpg?width=1920&height=1080&mode=crop&scale=none&quality=50
 # the avatar on sidebar, support local or CORS resources
 avatar:
 
