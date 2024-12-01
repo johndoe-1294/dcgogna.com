@@ -12,7 +12,8 @@ In addition I may also be able to refer you to someone else I know, who would be
 
 On side note, you wont generally find much about me out in open internet. I like to keep my things private to myself, that being said I am not at all closed to sharing my project, bio etc with right opportunties and people. 
 
-[Career and Education]('_tabs/CareerEducation.md')
+[Career and Education]
+{:._tabs\CareerEducation.md}
 
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
